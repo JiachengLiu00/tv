@@ -1,6 +1,6 @@
 ﻿
 {
-"spider":"https://github.com/JiachengLiu00/tv/blob/main/0723.jar",
+"spider":"https://github.com/JiachengLiu00/tv/blob/main/XBiubiuLA4.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0ppYWNoZW5nTGl1MDAvdHYvYmxvYi9tYWluL2xpdmUudHh0"]}]}],
 
 "sites":[
